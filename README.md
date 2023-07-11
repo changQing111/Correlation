@@ -4,9 +4,9 @@ first enter profile file folder
 ```shell
 cd profile_dir
 ```
-Detailed usage: python merge_sample_filter.py -h
+second merge all profile file into a table, detailed usage: python merge_sample_filter.py -h
 ```shell
-python merge_sample_filter.py -l file_list.txt -t kssd -p merge_profile.txt -s species.txt
+python merge_sample_filter.py -l file_list.txt -t kssd -p merge_profile.txt -s species.txt # defalut discard species  bleow 20% 
 ```
 ### 2. Construction of microbial interaction network
 #### 2.1 fitted
