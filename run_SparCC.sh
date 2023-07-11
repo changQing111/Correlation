@@ -1,6 +1,6 @@
 MYPATH=/home/changqing/bio_soft/SparCC
-PREFIX=$1
-PROFILE=$2
+PROFILE=$1
+PREFIX=$2
 CORR=${PREFIX}_corr.csv
 BOOT_DIR=${PREFIX}_bootstrap
 PVAL_DIR=${PREFIX}_pvalue
