@@ -1,4 +1,4 @@
-# co-abundance
+# Construction of microbial interaction network
 ### 1. transform percent table to reads count table with all sample
 multiply total reads number per sample, detailed usage: Rscript reads_num.R -h
 ```shell
